@@ -2,6 +2,8 @@
 ----
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SerenityZenDev&show_icons=true&theme=radical)
 ----
+<a href="https://github.com/SerenityZenDev"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imysh578&layout=compact&theme=nord&hide_border=true" /></a> 
+
 <!--
 **SerenityZenDev/SerenityZenDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
